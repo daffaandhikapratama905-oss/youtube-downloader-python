@@ -40,5 +40,5 @@ Jika Anda ingin menjalankan atau mengembangkan proyek ini dari source code:
 
 1. **Clone Repositori**:
    ```bash
-   git clone [https://github.com/DAFFA_KAMU/youtube-downloader-python.git](https://github.com/DAFFA_KAMU/youtube-downloader-python.git)
+   git clone [https://github.com/daffaandhikapratama905-oss/youtube-downloader-python](https://github.com/daffaandhikapratama905-oss/youtube-downloader-python.git)
    cd youtube-downloader-python
